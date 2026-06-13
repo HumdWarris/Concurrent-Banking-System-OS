@@ -8,6 +8,15 @@ C++ Concurrent Banking System implementing 5 OS concepts: CPU Scheduling (FCFS, 
 ![Threads](https://img.shields.io/badge/Concurrency-pthreads%20%2B%20std%3A%3Athread-green)
 ![University](https://img.shields.io/badge/FAST-OS%20Lab%20Project-orange)
 
+<img width="843" height="1071" alt="image" src="https://github.com/user-attachments/assets/213dd05a-36fb-47f3-92a2-0bb1248c1842" />
+
+<img width="1527" height="943" alt="image" src="https://github.com/user-attachments/assets/a7b38a5d-e212-4e79-8d50-1c82550287ff" />
+
+<img width="833" height="1037" alt="image" src="https://github.com/user-attachments/assets/964d0a7f-1bff-4c04-afdb-bce8eb70c942" />
+
+<img width="567" height="1022" alt="image" src="https://github.com/user-attachments/assets/cc00ec78-ba92-455d-9d73-fecf2af44bbe" />
+
+
 A C++ application that simulates a concurrent banking environment implementing **5 core Operating Systems concepts** in a single modular codebase — CPU Scheduling, Process Synchronization, Deadlock Avoidance, IPC, and Memory Management.
 
 **Authors:** 24F-0617 · 24F-0535 · Muhammad Humd (24F-0542)  
